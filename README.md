@@ -14,7 +14,7 @@ permitindo controlar até 3 circuitos de iluminação independentes. O Blumen to
 | Sirincpro  |  <a href="https://github.com/sinricpro/esp8266-esp32-sdk/">GIT</a> |   
 | WifiManager  |<a href="https://github.com/tzapu/WiFiManager/">GIT</a> |   
 
-
+<h2><b>Hardware</b></h2>
 <u1>
   <li> Blumen Touch Placa 1 e 2 </li>
   <img src="https://user-images.githubusercontent.com/76061000/113021607-25ab4e80-915a-11eb-890f-b1f3b3d3c859.jpg?w=512" height="400" width="280">
