@@ -16,7 +16,7 @@ permitindo controlar até 3 circuitos de iluminação independentes. O Blumen to
 
 <h2><b>Hardware</b></h2>
 <u1>
-  <li> Blmen Touch Placa 1 - frente </li>
+  <li> Blumen Touch Placa 1 - frente </li>
   
   <u1>
 
