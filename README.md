@@ -7,8 +7,9 @@ permitindo controlar até 3 circuitos de iluminação independentes. O Blumen to
 
 <h2><b>Bibliotecas necessárias</b></h2>
 
-|  <b>Nome</b> |  <b>Link</b> | <b>Versão</b>  |
-|---|---|---|
-| ArduinoJson  | <a href=“https://github.com/bblanchon/ArduinoJson“>GIT</a>  |   |   
-|   |   |   |   
-|   |   |   |
+|  <b>Nome</b> |  <b>Link</b> |
+|---|---|
+| ArduinoJson  | https://github.com/bblanchon/ArduinoJson“  |     
+|  WebSockets | https://github.com/Links2004/arduinoWebSockets  |  
+| Sirincpro  |  https://github.com/sinricpro/esp8266-esp32-sdk |   
+| WifiManeger  | https://github.com/tzapu/WiFiManager |   
