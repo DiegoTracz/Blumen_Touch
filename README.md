@@ -20,6 +20,8 @@ permitindo controlar até 3 circuitos de iluminação independentes. O Blumen to
   <img src="https://user-images.githubusercontent.com/76061000/113021607-25ab4e80-915a-11eb-890f-b1f3b3d3c859.jpg?w=512" height="400" width="280"> <img src="https://user-images.githubusercontent.com/76061000/113022875-75d6e080-915b-11eb-8b43-8a05f2cbf2d5.jpg?w=512" height="400" width="280">
 
   <u1>
+  
+  <h2><b>Software necessário</b></h2>
 
 
 
