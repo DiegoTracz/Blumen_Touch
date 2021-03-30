@@ -13,3 +13,12 @@ permitindo controlar até 3 circuitos de iluminação independentes. O Blumen to
 |  WebSockets | <a href="https://github.com/Links2004/arduinoWebSockets/">GIT</a>  |  
 | Sirincpro  |  <a href="https://github.com/sinricpro/esp8266-esp32-sdk/">GIT</a> |   
 | WifiManeger  |<a href=" https://github.com/tzapu/WiFiManager/">GIT</a> |   
+
+<h2><b>Hardware</b></h2>
+<u1>
+  <li> Blmen Touch Placa 1 - frente </li>
+  
+  <u1>
+
+
+
