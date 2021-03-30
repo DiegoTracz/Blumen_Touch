@@ -23,11 +23,10 @@ permitindo controlar até 3 circuitos de iluminação independentes. O Blumen to
   <u1>
    <h2><b>Suporte para placa</b></h2
      
-     <u1>
+ <u1>
   <li> Suporte e espelho em acrilico </li>
 <img src="https://user-images.githubusercontent.com/76061000/113027882-fa782d80-9160-11eb-8db4-bca1b89860b0.jpg?w=512" height="400" width="280">
-  
-  <u1>
+ <u1>
   
   
 
