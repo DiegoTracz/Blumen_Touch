@@ -25,13 +25,13 @@ permitindo controlar até 3 circuitos de iluminação independentes. O Blumen to
      
  <u1>
   <li> Suporte (PLA) e espelho (acrilico) </li>
-<img src="https://user-images.githubusercontent.com/76061000/113027882-fa782d80-9160-11eb-8db4-bca1b89860b0.jpg?w=512" height="400" width="800">
+<img src="https://user-images.githubusercontent.com/76061000/113027882-fa782d80-9160-11eb-8db4-bca1b89860b0.jpg?w=512" height="400" width="280">
  <u1>
    <h2><b>Esquemáticos</b></h2>
      
 <u1>
   <li> Esquematico frente e trás </li>
-  <img src="https://user-images.githubusercontent.com/76061000/115422983-cb8b2f80-a1d3-11eb-9311-f9e07e21d603.png" height="400" width="280">
+  <img src="https://user-images.githubusercontent.com/76061000/115422983-cb8b2f80-a1d3-11eb-9311-f9e07e21d603.png" height="400" width="650">
   
   <u1>
    
