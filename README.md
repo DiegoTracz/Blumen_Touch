@@ -27,7 +27,15 @@ permitindo controlar até 3 circuitos de iluminação independentes. O Blumen to
   <li> Suporte (PLA) e espelho (acrilico) </li>
 <img src="https://user-images.githubusercontent.com/76061000/113027882-fa782d80-9160-11eb-8db4-bca1b89860b0.jpg?w=512" height="400" width="280">
  <u1>
-  <h2><b>GIO's</b></h2>
+   <h2><b>Esquemáticos</b></h2>
+     
+<u1>
+  <li> Esquematico frente e trás </li>
+  <img src="https://user-images.githubusercontent.com/76061000/115422983-cb8b2f80-a1d3-11eb-9311-f9e07e21d603.png" height="400" width="280">
+  
+  <u1>
+   
+  <h2><b>GPIO's</b></h2>
 
 |  <b>GPIO</b> |  <b>PINO</b> |
 |---|---|
@@ -38,7 +46,7 @@ permitindo controlar até 3 circuitos de iluminação independentes. O Blumen to
 | 04  |  RELÉ 2|   
 | 02  |  RELÉ 3|   
 
-  
+ 
 
   <h2><b>Software necessário</b></h2>
  <b>Sirinc Pro</b>: O Sirinc Pro é um serviço de nuvem para dispositivos inteligentes, onde de forma gratuita podemos hospedar até 3 dispositivos e a partir dele fazer o acionamento dos interruptores pelo aplicativo ou comando de voz.
