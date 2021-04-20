@@ -30,9 +30,10 @@ permitindo controlar até 3 circuitos de iluminação independentes. O Blumen to
    <h2><b>Esquemáticos</b></h2>
      
 <u1>
-  <li> Esquematico frente e trás </li>
-  <img src="https://user-images.githubusercontent.com/76061000/115423539-4b18fe80-a1d4-11eb-89be-5eee69b26868.jpg" height="400" width="650">
-   <img src="https://user-images.githubusercontent.com/76061000/115423648-6257ec00-a1d4-11eb-9435-b9a8a9f41430.jpg" height="400" width="650">
+  <li> Esquematico frente </li>
+  <img src="https://user-images.githubusercontent.com/76061000/115423539-4b18fe80-a1d4-11eb-89be-5eee69b26868.jpg" height="500" width="750">
+  <li> Esquematico trás </li>
+   <img src="https://user-images.githubusercontent.com/76061000/115423648-6257ec00-a1d4-11eb-9435-b9a8a9f41430.jpg" height="500" width="750">
   
   <u1>
    
