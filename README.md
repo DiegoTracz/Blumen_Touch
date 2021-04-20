@@ -43,7 +43,7 @@ permitindo controlar até 3 circuitos de iluminação independentes. O Blumen to
 |---|---|
 |16  | BOTÃO 1  |     
 |  14 | BOTÃO 2  |  
-| 13  |  BOTÃO 3|
+| 12  |  BOTÃO 3|
 | 05  |  RELÉ 1|   
 | 04  |  RELÉ 2|   
 | 02  |  RELÉ 3|   
