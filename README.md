@@ -59,6 +59,6 @@ permitindo controlar até 3 circuitos de iluminação independentes. O Blumen to
  
 
   <h2><b>Software necessário</b></h2>
- <b>Sirinc Pro</b>: O Sirinc Pro é um serviço de nuvem para dispositivos inteligentes, onde de forma gratuita podemos hospedar até 3 dispositivos e a partir dele fazer o acionamento dos interruptores pelo aplicativo ou comando de voz.
+ <b>Sirinc Pro</b>: O Sirinc Pro é um serviço de nuvem para dispositivos inteligentes, onde de forma gratuita podemos hospedar até 3 dispositivos gratuitamente e a partir dele fazer o acionamento dos interruptores pelo aplicativo ou comando de voz.
 
 
