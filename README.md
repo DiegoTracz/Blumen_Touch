@@ -24,7 +24,7 @@ permitindo controlar até 3 circuitos de iluminação independentes. O Blumen to
 
 <h2><b>Hardware</b></h2>
 <u1>
-  <li> Blumen Touch Placa 1 e 2 </li>
+  <li> Blumen Touch Placa 1, 2 e 4 teclas frente e trás</li>
   <img src="https://user-images.githubusercontent.com/76061000/116568709-147f6a00-a8df-11eb-8aea-b58aba7be3df.png?w=512" height="407" width="1408">
   <img src="https://user-images.githubusercontent.com/76061000/116568947-53152480-a8df-11eb-97fa-9902dd4d1cf1.png?w=512" height="330" width="1409">
   
@@ -33,7 +33,7 @@ permitindo controlar até 3 circuitos de iluminação independentes. O Blumen to
      
  <u1>
   <li> Suporte (PLA) e espelho (acrilico) </li>
-<img src="https://user-images.githubusercontent.com/76061000/113027882-fa782d80-9160-11eb-8db4-bca1b89860b0.jpg?w=512" height="400" width="280">
+<img src="https://user-images.githubusercontent.com/76061000/116569564-e2bad300-a8df-11eb-94ad-c3b87ec8adff.png?w=512" height="400" width="280">
  <u1>
    <h2><b>Esquemáticos</b></h2>
      
