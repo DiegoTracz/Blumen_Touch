@@ -1,4 +1,4 @@
-# Blumen_Touch
+# Interruptor inteligente customizável
 O projeto Blumen Touch, é uma solução IoT baseada no ESP8266 com o objetivo de popularizar sistemas de automação residencial de baixo custo.
 <h2><b>Introdução</b></h2>
 Blumen Touch é um interruptor wi-fi baseado no ESP8266 suportando até 3 botões e 3 relés de estado sólido que suportam 2A cada, 
