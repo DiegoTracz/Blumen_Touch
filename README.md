@@ -7,7 +7,7 @@ permitindo controlar até 3 circuitos de iluminação independentes. O Blumen to
 <h2><b>Diagrama de fiação </b></h2>
 <u1>
   <li> Ligação dos fio para os modelos B1, B2 e B3 </li>
-  <img src="https://user-images.githubusercontent.com/76061000/115427318-c0d29980-a1d7-11eb-839f-0ce94e1b56d8.png" height="200" width="800">
+  <img src="https://user-images.githubusercontent.com/76061000/115427318-c0d29980-a1d7-11eb-839f-0ce94e1b56d8.png" width="800px">
   
   <u1>
    <h2>
@@ -25,8 +25,8 @@ permitindo controlar até 3 circuitos de iluminação independentes. O Blumen to
 <h2><b>Hardware</b></h2>
 <u1>
   <li> Blumen Touch Placa 1, 2 e 3 teclas frente e trás</li>
-  <img src="https://user-images.githubusercontent.com/76061000/116568709-147f6a00-a8df-11eb-8aea-b58aba7be3df.png" height="300" width="750">
-  <img src="https://user-images.githubusercontent.com/76061000/116570529-b784b380-a8e0-11eb-9eb2-932ed905539e.png" height="270" width="750">
+  <img src="https://user-images.githubusercontent.com/76061000/116568709-147f6a00-a8df-11eb-8aea-b58aba7be3df.png" width="750px">
+  <img src="https://user-images.githubusercontent.com/76061000/116570529-b784b380-a8e0-11eb-9eb2-932ed905539e.png" width="750px">
   
   <u1>
    <h2><b>Suporte para placa</b></h2
