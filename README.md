@@ -9,7 +9,7 @@ Além disso possui um interface customizável, onde é possivel colocar qualquer
 <u1>
   <li> Ligação dos fio para os modelos B1, B2 e B3 </li>
   <img src="https://user-images.githubusercontent.com/76061000/115427318-c0d29980-a1d7-11eb-839f-0ce94e1b56d8.png" width="800px">
-  
+  <li> Tutorial instalação:  https://youtu.be/j6668FpMcGA </li>
   <u1>
    <h2>
 
@@ -61,7 +61,7 @@ Além disso possui um interface customizável, onde é possivel colocar qualquer
  
 
   <h2><b>Software necessário</b></h2>
- <b>Sirinc Pro</b>: O Sirinc Pro é um serviço de nuvem para dispositivos inteligentes, onde de forma gratuita podemos hospedar até 3 dispositivos gratuitamente e a partir dele fazer o acionamento dos interruptores pelo aplicativo ou comando de voz.
-    Passo a passo configuração da placa utilizando a plataforma do Sinric Pro: https://youtu.be/px-q5iuD3NI
+ <li><b>Sirinc Pro</b>: O Sirinc Pro é um serviço de nuvem para dispositivos inteligentes, onde de forma gratuita podemos hospedar até 3 dispositivos gratuitamente e a partir dele fazer o acionamento dos interruptores pelo aplicativo ou comando de voz.</li>
+  <li> <b> Passo a passo configuração da placa utilizando a plataforma do Sinric Pro<b>: https://youtu.be/px-q5iuD3NI<li>
 
 
