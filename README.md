@@ -7,7 +7,7 @@ permitindo controlar até 3 circuitos de iluminação independentes. O Blumen to
 <h2><b>Diagrama de fiação </b></h2>
 <u1>
   <li> Ligação dos fio para os modelos B1, B2 e B3 </li>
-  <img src="https://user-images.githubusercontent.com/76061000/115427318-c0d29980-a1d7-11eb-839f-0ce94e1b56d8.png" height="500" width="800">
+  <img src="https://user-images.githubusercontent.com/76061000/115427318-c0d29980-a1d7-11eb-839f-0ce94e1b56d8.png" height="200" width="800">
   
   <u1>
    <h2>
